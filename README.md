@@ -59,7 +59,7 @@ The dataset contains sales and order information, including:
 
 Add your dashboard screenshot here:
 
-![Vrinda Store Dashboard](Dashboard/VaniScreenshot.png)
+![Vrinda Store Dashboard]("C:\Users\uubca\OneDrive\Desktop\VaniScreenshot.png")
 
 ## Conclusion
 
